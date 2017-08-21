@@ -9,7 +9,7 @@ This Example just beautify the json body.
 
 
 #Request Instector
-TODO
+This Example append `_only_modify_in_inspector` in Instector and replace with `_removed` after edit in Instector. 
 
 #Traffic Tamper
 TagCookies.cs from http://docs.telerik.com/fiddler/Extend-Fiddler/CookieExtension
